@@ -13,7 +13,7 @@ Service delivery model over the internet (cloud):
 
 - **scalability**: scale = allocate and deallocate resources at any time
 - **elasticity**: scale dynamically
-- **agility **: scale quickly
+- **agility**: scale quickly
 - **fault tolerance**: maintain system uptime while physical and service component failures happen
 - **disaster recovery**: process and design principle which allows a system to recovers from natural or human induced disasters
 - **high availability**: agreed level of operational uptime for the system.
