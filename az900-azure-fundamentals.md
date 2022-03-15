@@ -6,7 +6,7 @@ Service delivery model over the internet (cloud):
 
 - **compute power** meaning servers such as windows, linux, hosting environments, etc.
 - **storage** like files and/or databases
-- **networking **in azure but also outside when connecting to your company network
+- **networking** in azure but also outside when connecting to your company network
 - **analytics** services for visualization and telemetry data
 
 ### Main concepts
