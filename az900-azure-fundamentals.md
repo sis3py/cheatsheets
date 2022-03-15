@@ -527,3 +527,49 @@ DevOps aims to shorten the development life cycle by providing continuous integr
 	- Operational Excellence (service health, subscription limits, etc.)
 - Actionable recommendations
 - Free
+
+## Azure Network Security Groups
+
+- Designed to filter traffic to (inbound) and from (outbound) Azure resources located in - Azure Virtual Network
+- Filtering controlled by rules
+- Ability to have multiple inbound and outbound rules
+- Rules are created by specifying
+	- **Source/Destination** (IP addresses, service tags, application security groups)
+	- **Protocol** (TCP, UDP, any)
+	- **Port** (or Port Ranges, ex. 3389 – RDP, 22 – SSH, 80 HTTP, 443 HTTPS)
+	- **Direction** (inbound or outbound)
+	- **Priority** (order of evaluation)
+
+## Application Security Groups
+
+- Feature that allows grouping of virtual machines located in Azure virtual network
+- Designed to reduce the maintenance effort (assign ASG instead of the explicit IP address)
+
+## User Defined Routes
+
+### Routing
+Process of finding/selecting a path for traffic in one or across multiple networks.
+
+### User-defined Routes
+- Custom (user-defined, static) routes (UDRs)
+- Designed to override Azure’s default routing or add new routes
+- Managed via Azure Route Table resource
+- Associated with a zero or more Virtual Network subnets
+
+## Azure Firewall
+- Managed, cloud-based firewall service (PaaS, Firewall as a Service)
+- Built-in high availability
+- Highly Scalable
+- Inbound & outbound traffic filtering rules
+- Support for FQDN (Fully Qualified Domain Name), ex. microsoft.com
+- Fully integrated with Azure monitor for logging and analytics
+
+## Azure DDoS Protection
+- DDoS protection service in Azure
+- Designed to
+	- Detect malicious traffic and block it while allowing legitimate users to connect
+	- Prevent additional costs for auto-scaling environments
+- Two tiers
+	- Basic – automatically enabled for Azure platform
+	- Standard – additional mitigation & monitoring capabilities for Azure Virtual Network resources
+- Standard tier uses machine learning to analyze traffic patterns for better accuracy
