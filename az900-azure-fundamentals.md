@@ -274,7 +274,7 @@ Micro/nano-services, excellent consumption-based pricing, easy to start
 ### Data Types
 - **Structured** - Data that can be represented using tables with very strict schema. Each row must follow defined schema. Some tables have defined relationships between them. Typically used in relational databases.
 - **Semi-structured** - Data that can be represented using tables but without strict defined schema. Rows must only have unique key identifier.
-- **Unstructured **- Any files in any format. Like binary files, application files, images, movies, etc.
+- **Unstructured** - Any files in any format. Like binary files, application files, images, movies, etc.
 
 ### Storage Account
 - Group of services which include
