@@ -165,7 +165,7 @@ Combines both Public & Private cloud
 
 ### Geographies
 - Discrete market
-- Typically contains** 2 or more regions**
+- Typically contains **2 or more regions**
 - Ensures **data residency, sovereignty, resiliency, and compliance requirements** are met
 - **Fault tolerant** to protect from region wide failures
 - Broken up into **areas**
@@ -203,7 +203,7 @@ Combines both Public & Private cloud
 
 - 1 resource must be in **one, and only one** resource group
 - Resource groups have their **own location** assigned
-- Resources in the resource groups can reside ** in a different locations**
+- Resources in the resource groups can reside **in a different locations**
 - Resources **can be moved between** the resource groups
 - Resource groups **cannot be nested**
 - Organize based on your organization (billing, security and access management, application lifecycle, ...)
