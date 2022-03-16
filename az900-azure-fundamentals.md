@@ -385,16 +385,16 @@ Big data typically has one of the following characteristics:
 	- Periodic
 	- Near Real Time
 	- Real Time
-	- **Volume** - how much data we are processing
+- **Volume** - how much data we are processing
 	- Megabytes
 	- Gigabyte
 	- Terabytes
 	- Petabytes
 - **Variety** - how structured/complex the data is
-- Tables
-- Databases
-- Photo, Audio
-- Video, Social Media
+	- Tables
+	- Databases
+	- Photo, Audio
+	- Video, Social Media
 
 ### Azure Synapse Analytics
 - Big data analytics platform (PaaS)
