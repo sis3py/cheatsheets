@@ -195,7 +195,7 @@ Combines both Public & Private cloud
 	- combination of those
 
 ### Resource Manager
-- **Management Layer **for all resources and resource groups
+- **Management Layer** for all resources and resource groups
 - **Unified language**
 - **Controls** access and resources
 
