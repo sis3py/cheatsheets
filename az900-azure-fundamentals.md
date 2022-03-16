@@ -336,9 +336,9 @@ Micro/nano-services, excellent consumption-based pricing, easy to start
 ### Azure SQL product family
 - **Azure SQL Database** – Reliable relational database based on SQL Server
 - **Azure Database for MySQL** - Azure SQL version for MySQL database engine
-- **Azure Database for PostgreSQL ** - Azure SQL version for PostgreSQL database engine
-- **Azure SQL Managed Instance ** - Fully fledged SQL Server managed by cloud provider
-- **Azure SQL on VM ** – Fully fledged SQL Server on IaaS
+- **Azure Database for PostgreSQL** - Azure SQL version for PostgreSQL database engine
+- **Azure SQL Managed Instance** - Fully fledged SQL Server managed by cloud provider
+- **Azure SQL on VM** – Fully fledged SQL Server on IaaS
 - **Azure SQL DW (Synapse)** – Massively Parallel Processing (MPP) version of SQL Server
 
 ## Azure Marketplace
