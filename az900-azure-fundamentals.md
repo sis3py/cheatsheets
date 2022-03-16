@@ -134,7 +134,7 @@ Combines both Public & Private cloud
 - Geographical area on the planet
 - Datacenter(s) connected with low-latency network (<2 milliseconds)
 - Location for your services
-- Some **services are available only **in certain regions
+- Some **services are available only** in certain regions
 - Some **services are global services** ( not assigned/deployed in specific region)
 - **50**+ regions available
 - Special government regions (US DoD Central, US Gov Virginia, etc.)
