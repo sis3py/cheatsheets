@@ -202,8 +202,8 @@ Combines both Public & Private cloud
 ### Main concepts
 
 - 1 resource must be in **one, and only one** resource group
-- Resource groups have their **own location **assigned
-- Resources in the resource groups can reside** in a different locations**
+- Resource groups have their **own location** assigned
+- Resources in the resource groups can reside ** in a different locations**
 - Resources **can be moved between** the resource groups
 - Resource groups **cannot be nested**
 - Organize based on your organization (billing, security and access management, application lifecycle, ...)
