@@ -380,7 +380,7 @@ Big Data is a field of technology that helps with the extraction, processing and
 ### The 3Vs rule
 Big data typically has one of the following characteristics:
 
-- **Velocity **- how fast the data is coming in or how fast we are processing it
+- **Velocity** - how fast the data is coming in or how fast we are processing it
 	- Batch
 	- Periodic
 	- Near Real Time
